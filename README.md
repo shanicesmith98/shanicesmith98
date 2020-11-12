@@ -12,7 +12,6 @@
 - 🤔 I’m looking for help with creating a robust portfolio and learning Data Strutures
 - 💬 Ask me about my favorite Steven Universe episodes
 - 📫 How to reach me: On Twitter @hackergem or email: shanice@shanice.dev
-- 😄 Pronouns: she/her/they/them
 - 🐶 Fun fact: I'm a NYC dog walker!
 
 
