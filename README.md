@@ -15,6 +15,10 @@
 - 🐶 Fun fact: I'm a NYC dog walker!
 
 
+[![Shanice's github stats](https://github-readme-stats.vercel.app/api?username=shanicesmith98)](https://github.com/shanicesmith98/github-readme-stats)
+
+
+
 <!--
 **shanicesmith98/shanicesmith98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
