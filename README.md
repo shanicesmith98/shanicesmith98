@@ -14,10 +14,7 @@
 - 📫 How to reach me: On Twitter @hackergem or email: shanice@shanice.dev
 - 🐶 Fun fact: I'm a NYC dog walker!
 
-
-[![Shanice's github stats](https://github-readme-stats.vercel.app/api?username=shanicesmith98)](https://github.com/shanicesmith98/github-readme-stats)
-
-
+[![Shanice's github stats](https://github-readme-stats.vercel.app/api?username=shanicesmith98&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **shanicesmith98/shanicesmith98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
