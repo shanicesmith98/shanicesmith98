@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on rebuilding my portfolio website
+- 🌱 I’m currently learning Gatsby and React.js
+- 👯 I’m looking to collaborate on Web Development and Product Design projects
+- 🤔 I’m looking for help with creating a robust portfolio and learning Data Strutures
+- 💬 Ask me about my favorite Steven Universe episodes
+- 📫 How to reach me: On Twitter @hackergem or email: shanice@shanice.dev
+- 😄 Pronouns: she/her/they/them
+- 🐶 Fun fact: I'm a NYC dog walker!
+
+
 <!--
 **shanicesmith98/shanicesmith98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
