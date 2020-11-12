@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<a href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
+  <img src="https://pronouns.vercel.app/she/they?flag=pan?gradient=hazel" width="256" height="64" alt="My pronouns are she/they">
+</a>
+
 - 🔭 I’m currently working on rebuilding my portfolio website
 - 🌱 I’m currently learning Gatsby and React.js
 - 👯 I’m looking to collaborate on Web Development and Product Design projects
