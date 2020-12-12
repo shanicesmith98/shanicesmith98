@@ -7,8 +7,8 @@
 
 
 - 🔭 I’m currently working on rebuilding my portfolio website
-- 🌱 I’m currently learning Classes and manipulating the DOM in JS
-- 👯 I’m looking to collaborate on Web Development and Product Design projects
+- 🌱 I’m currently learning Object-Oriented Programming and manipulating the DOM in JS
+- 👯 I’m looking to collaborate on Web Development and Game Design projects
 - 🤔 I’m looking for help with creating a robust portfolio and learning Data Structures
 - 💬 Ask me about my favorite Steven Universe episodes
 - 📫 How to reach me: On Twitter @hackergem or email: shanice@shanice.dev
