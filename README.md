@@ -4,11 +4,10 @@ Pronouns are: she/her/they/them
 
 - 🔭 I’m currently working on rebuilding my portfolio website
 - 🌱 I’m currently learning about Accessibility and QA Automation Testing
-- 👯 I’m looking to collaborate on Web Development and Game Design projects
 - 🤔 I’m looking for help with creating a robust portfolio and learning Data Structures
 - 💬 Ask me about my favorite Steven Universe episodes
 - 📫 How to reach me: On Twitter @hackergem or email: hello@shanice.dev
-- 🐶 Fun fact: I'm a NYC dog walker!
+- 🐶 Fun fact: I used to be a NYC dog walker!
 
 [![Shanice's github stats](https://github-readme-stats.vercel.app/api?username=shanicesmith98&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
