@@ -2,8 +2,8 @@
 
 Pronouns are: she/her/they/them
 
-- 🔭 I’m currently working on rebuilding my portfolio website
-- 🌱 I’m currently learning about Accessibility and QA Automation Testing
+- 🔭 I’m currently working on building full-stack applications
+- 🌱 I’m currently learning about Django and Unit Testing
 - 🤔 I’m looking for help with creating a robust portfolio and learning Data Structures
 - 💬 Ask me about my favorite Steven Universe episodes
 - 📫 How to reach me: On Twitter @hackergem or email: hello@shanice.dev
