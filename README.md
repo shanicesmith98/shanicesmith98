@@ -3,8 +3,7 @@
 Pronouns are: she/her/they/them
 
 - 🔭 I’m currently working on building full-stack applications
-- 🌱 I’m currently learning about TypeScript and Unit Testing
-- 🤔 I’m looking for help with creating a robust portfolio and learning Data Structures
+- 🌱 I’m currently learning about TypeScript and PHP
 - 💬 Ask me about my favorite Steven Universe episodes
 - 📫 How to reach me: On Twitter @hackergem or email: hello@shanice.dev
 - 🐶 Fun fact: I used to be a NYC dog walker!
