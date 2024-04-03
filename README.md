@@ -2,11 +2,11 @@
 
 Pronouns are: she/her/they/them
 
-- 🔭 I’m currently working on building full-stack applications
-- 🌱 I’m currently learning about TypeScript and PHP
+- 🔭 I’m currently working on building web-based games
+- 🌱 I’m currently learning about C#
 - 💬 Ask me about my favorite Steven Universe episodes
 - 📫 How to reach me: On Twitter @hackergem or email: hello@shanice.dev
-- 🐶 Fun fact: I used to be a NYC dog walker!
+- 🐶 Fun fact: I've seen over 40 musicals on Broadway!
 
 [![Shanice's github stats](https://github-readme-stats.vercel.app/api?username=shanicesmith98&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
