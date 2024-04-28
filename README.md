@@ -3,12 +3,10 @@
 Pronouns are: she/her/they/them
 
 - 🔭 I’m currently working on building web-based games
-- 🌱 I’m currently learning about C#
+- 🌱 I’m currently re-learning C# for game development
 - 💬 Ask me about my favorite Steven Universe episodes
 - 📫 How to reach me: On Twitter @hackergem or email: hello@shanice.dev
 - 🐶 Fun fact: I've seen over 40 musicals on Broadway!
-
-[![Shanice's github stats](https://github-readme-stats.vercel.app/api?username=shanicesmith98&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **shanicesmith98/shanicesmith98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
